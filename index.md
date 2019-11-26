@@ -42,9 +42,12 @@ i> Du kannst oben-links zwischen den Ansichten wechseln.
 
 ### Die Code-Ansicht
 
-In der Code-Ansicht gibt es drei Bereiche
-1. auf der linken Seite siehst du deine App und kannst sie testen,
-2. 
+In der Code-Ansicht gibt es drei Bereiche.
+1. Auf der linken Seite siehst du deine App und kannst sie testen.
+2. Auf der rechten Seite befindet sich der Arbeitsbereich. Hier wird das Programm geschrieben.
+3. In der Mitte ist die Werkzeugkiste. Hier findest du verschiedene Code-Bausteine, die du per **drag-and-drop** deinem Programm hinzufügen kannst.
+
+
 
 
 
