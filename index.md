@@ -27,7 +27,24 @@ t> Klicke auf App-Labor, um ein neues Projekt im App Labor zu starten.
 
 ![Armaturenbrett](img/Mein_Armaturenbrett.png)
 
-## Das App Labor
+## Die Benutzeroberfläche des App Labors
+
+Hier siehst du die Benutzeroberfläche des Abb Labors.
+
+
+Die Benutzeroberfläche des App Labors hat drei Ansichten:
+1. die [**Code-Ansicht**](#Die Code-Ansicht)
+2. die **Entwurf-Ansicht**
+3. die **Daten-Ansicht**.
+
+i> Du kannst oben-links zwischen den Ansichten wechseln.
+
+
+### Die Code-Ansicht
+
+In der Code-Ansicht gibt es drei Bereiche
+1. auf der linken Seite siehst du deine App und kannst sie testen,
+2. 
 
 
 
