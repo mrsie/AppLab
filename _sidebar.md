@@ -1,3 +1,3 @@
-* Home (index.md)
+* [Home](index.md)
 
-* Taschenrechner (taschenrechner.md)
+* [Taschenrechner](taschenrechner.md)
