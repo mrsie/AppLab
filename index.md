@@ -2,8 +2,14 @@
 
 Hier findest du eine kurze Einführung in die Benutzeroberfläche vom **App Lab**
 
-## Anmeldung oder Registrierung
-Um das App Lab benutzen zu können, musst du dich auf `studio.code.org` anmelden bzw. registieren.
+## Registrierung
+Um das App Lab benutzen zu können, musst du dich zunächst auf `studio.code.org` registieren.
 
-t> https://studio.code.org/
+i> Falls du dir bereits ein Benutzerkonto für das App Lab erstellt hast, kannst du die folgenden Schritt überspringen und direkt zum nächsten Abschnitt gehen.
+
+
+
+t> Gebe `https://studio.code.org/users/sign_up`
+
+## Anmeldung
 
