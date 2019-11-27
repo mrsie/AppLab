@@ -23,9 +23,10 @@ Die Funktion `parseInt()` findest du **nicht** in der Werkzeugkiste.
 Du musst in die Text-Ansicht des Codes wechseln und diese Funktion über die Tastatur hinzufügen.
 
 ```
-onEvent("button_plus", "click", function() {
-  setText("text_out", 
-    parseInt(getText("text_input1")) + parseInt(getText("text_input2")));
+onEvent("button_plus", "click", function( ) {
+  setProperty("text_out", "text",
+  (parseInt(getProperty("text_input1", "text"))
+  +parseInt(getProperty("text_input2", "text"))));
 });
 ```
 
