@@ -17,6 +17,10 @@ Das Design deiner App könnte z. B. so aussehen:
  
 ### Code
 Hier siehst du wie der Code für den `button_plus` aussehen könnte:
+i> Die Funktion `parseInt()` wandelt den Text aus dem Textfeld in eine Zahl um, mit der die App rechnen kann.
+Die Funktion `parseInt()` findest du **nicht** in der Werkzeugkiste.
+Du musst in die Text-Ansicht des Codes wechseln und diese Funktion über die Tastatur hinzufügen.
+
 ![CodeBlocks des Taschenrechners für button_plus](img/Taschenrechner_CodeBlocks_Button_Plus.png)
  
 ## Aufgabe 2
