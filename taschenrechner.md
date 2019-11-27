@@ -31,7 +31,7 @@ onEvent("button_plus", "click", function( ) {
 ```
 
 
-![CodeBlocks des Taschenrechners für button_plus](img/Taschenrechner_CodeBlocks_Button_Plus.png)
+<!--- TODO Update ![CodeBlocks des Taschenrechners für button_plus](img/Taschenrechner_CodeBlocks_Button_Plus.png)--->
  
 ## Aufgabe 2
 t> Erweitere deine Taschenrechner-App, sodass man mit ihr auch mal und geteilt rechnen kann.
