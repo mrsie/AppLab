@@ -1,7 +1,7 @@
 # App Labor - Unterrichtsmaterial
 In diesem Repository findest du Unterrichtsmaterial für das App Labor von code.org.
 
-Hast du einen Fehler gefunden oder möchtest eine Verbesserung einpflegen freue ich mich auf einen Pull Request, einen Eintrag unter Issue oder eine klassische [Mail](mailto:m.siemering.edu@gmail.com)
+Hast du einen Fehler gefunden oder möchtest eine Verbesserung einpflegen, freue ich mich auf einen Pull Request, einen Eintrag unter Issue oder eine klassische [Mail](mailto:m.siemering.edu@gmail.com)
 
 **Du bist Schüler** und möchtest in die Schüleransicht wechseln, dann gehe auf [https://mrsie.github.io/AppLab/](https://mrsie.github.io/AppLab/)
 
