@@ -1,7 +1,7 @@
 # Die Taschenrechner-App
 
 ## Aufgabe 1
-t> Erstelle eine Taschenrechner-App, mit dem man plus und minus rechnen kann.
+t> Erstelle eine Taschenrechner-App, mit der man plus und minus rechnen kann.
 
 
 ### Design
@@ -20,5 +20,5 @@ Hier siehst du wie der Code für den `button_plus` aussehen könnte:
 ![CodeBlocks des Taschenrechners für button_plus](img/Taschenrechner_CodeBlocks_Button_Plus.png)
  
 ## Aufgabe 2
-t> Erweitere deine Taschenrechner-App, sodass man mit ihm auch mal und geteilt rechnen kann.
+t> Erweitere deine Taschenrechner-App, sodass man mit ihr auch mal und geteilt rechnen kann.
 
