@@ -7,7 +7,8 @@ Hast du einen Fehler gefunden oder möchtest eine Verbesserung einpflegen, freue
 
 
 # Lizenz
-Inhalte erstellt Marc Siemering basierend auf einer Vorlage von Julian Dorn [CC-BY-CA](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
 
+Inhalte erstellt Marc Siemering basierend auf einer Vorlage von Julian Dorn.
 Dieses Material basiert auf einer [Vorlage](https://github.com/wi-wissen/informatikschulbuch) von Julian Dorn alias [wi-wissen](https://github.com/wi-wissen/). Dieser hat dankenswerterweise eine Bolg-Artikel dazu verfasst wie man [OER Lehrbücher mit Markdown und Git erstellt](https://blog.wi-wissen.de/post/oer-lehrbuecher-mit-markdown-und-git-erstellen).
 
