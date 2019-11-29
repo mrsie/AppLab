@@ -7,7 +7,7 @@ Ich bekomme die eine Fehlermeldung angezeigt, was muss ich machen?
 !> Die Fehlermeldung lesen!
 
 #### Frage: You need to correct an error in your program before it can be shown as blocks.
-Wenn ich auf *Show Blocks* klicke bekomme ich die folgende Fehlermeldung:
+Wenn ich auf **Show Blocks** klicke, bekomme ich die folgende Fehlermeldung:
 ![Screenshot: You need to correct an error in your program before it can be shown as blocks.](img/FAQ/error_correct_error_before_show_blocks.png)
 
 #### Antwort
