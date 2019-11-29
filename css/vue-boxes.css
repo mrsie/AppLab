@@ -113,15 +113,15 @@
 
 /* question */
 .markdown-section .alert-question {
-    border-left: 4px solid #F39C12
+    border-left: 4px solid #C0392B
   }
   .markdown-section .alert-question:before {
-    background-color: #F39C12;
+    background-color: #C0392B;
     color: #fff;
     content: '?';
   }
   .markdown-section .alert-question code {
-    background-color: #FDF2E9;
+    background-color: #E6B0AA;
   }
   .markdown-section .alert-question em {
     color: #34495e;
@@ -137,7 +137,7 @@
     content: '!';
   }
   .markdown-section .alert-answer code {
-    background-color: #E9F7EF;
+    background-color: #A9DFBF ;
   }
   .markdown-section .alert-answer em {
     color: #34495e;
