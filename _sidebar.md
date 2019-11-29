@@ -2,3 +2,4 @@
 
 * [Taschenrechner](taschenrechner.md)
 
+* [FAQ](FAQ.md)
