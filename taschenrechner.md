@@ -22,16 +22,14 @@ i> Die Funktion `parseInt()` wandelt den Text aus dem Textfeld in eine Zahl um, 
 Die Funktion `parseInt()` findest du **nicht** in der Werkzeugkiste.
 Du musst in die Text-Ansicht des Codes wechseln und diese Funktion über die Tastatur hinzufügen.
 
-```
+![CodeBlocks des Taschenrechners für button_plus](img/Taschenrechner_CodeBlocks_Button_Plus.png)
+ ```
 onEvent("button_plus", "click", function( ) {
-  setProperty("text_out", "text",
-  (parseInt(getProperty("text_input1", "text"))
-  +parseInt(getProperty("text_input2", "text"))));
+  setText("text_out", parseInt(getText("text_input1"))
+  + parseInt(getProperty("text_input2", "text")));
 });
 ```
-
-
-<!--- TODO Update ![CodeBlocks des Taschenrechners für button_plus](img/Taschenrechner_CodeBlocks_Button_Plus.png)--->
+ 
  
 ## Aufgabe 2
 t> Erweitere deine Taschenrechner-App, sodass man mit ihr auch mal und geteilt rechnen kann.
