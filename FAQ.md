@@ -21,7 +21,7 @@ Wenn du die Maus über das rote Rechteck bewegst, wir dir ein Fehlertext angezei
 q> Frage: Wenn ich auf den Plus-Button klicke, passiert nichts.
 
 a> Überprüfe ob der Plus-Button im Design die **genau die gleiche ID** wie in deinem Code.
-<br> Im Beispiel: ´button_plus´
+<br> Im Beispiel: `button_plus`
 
 w> **Achte** auf Groß- und Kleinschreibung!
 <br> Verwende **keine Sonderzeichen** in den IDs (z. B. `+`, `-`, `*`, `/`)

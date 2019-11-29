@@ -115,6 +115,7 @@
 .markdown-section .alert-question {
     border-left: 4px solid #C0392B;
     background-color: #F9EBEA;
+    margin-bottom: 0em
   }
   .markdown-section .alert-question:before {
     background-color: #C0392B;
@@ -132,6 +133,7 @@
 .markdown-section .alert-answer {
     border-left: 4px solid #27AE60;
     background-color: #E9F7EF;
+    margin-top: 0em
   }
   .markdown-section .alert-answer:before {
     background-color: #27AE60;
