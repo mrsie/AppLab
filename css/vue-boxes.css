@@ -113,7 +113,8 @@
 
 /* question */
 .markdown-section .alert-question {
-    border-left: 4px solid #C0392B
+    border-left: 4px solid #C0392B;
+    background-color: #F2D7D5;
   }
   .markdown-section .alert-question:before {
     background-color: #C0392B;
@@ -129,7 +130,8 @@
 
 /* answer */
 .markdown-section .alert-answer {
-    border-left: 4px solid #27AE60
+    border-left: 4px solid #27AE60;
+    background-color: #D4EFDF;
   }
   .markdown-section .alert-answer:before {
     background-color: #27AE60;
