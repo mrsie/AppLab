@@ -25,7 +25,7 @@ Nach der Anmeldung landest du auf deinem Armaturenbrett.
 
 t> Klicke auf App-Labor, um ein neues Projekt im App Labor zu starten.
 
-![Armaturenbrett](img/Mein_Armaturenbrett.png)
+![Armaturenbrett](img/Mein_Armaturenbrett.gif)
 
 ## Die Benutzeroberfläche des App Labors
 
