@@ -2,16 +2,16 @@
 Hier findest du häufig gestellte Fragen.
 
 ## Tipps zu Fehlermeldungen.
-?> Ich bekomme die eine Fehlermeldung angezeigt, was muss ich machen?
+q> Ich bekomme die eine Fehlermeldung angezeigt, was muss ich machen?
 
 !> Die Fehlermeldung lesen!
 
-?> Wenn ich auf **Show Blocks** klicke, bekomme ich die folgende Fehlermeldung:
+q> Wenn ich auf **Show Blocks** klicke, bekomme ich die folgende Fehlermeldung:
 You need to correct an error in your program before it can be shown as blocks.
 
 ![Screenshot: You need to correct an error in your program before it can be shown as blocks.](img/FAQ/error_correct_error_before_show_blocks.png)
 
-!> In deinem Programm-Code gibt es einen Fehler (englisch: *error*). Deshalb, kann das Programm nicht in die Blocks zurückgewendelt werden.
+a> In deinem Programm-Code gibt es einen Fehler (englisch: *error*). Deshalb, kann das Programm nicht in die Blocks zurückgewendelt werden.
 
 i> Häufig handelt es sich um einen Syntax-Fehler. D.h. es fehlt z. B. ein `;` oder eine `)`
 Achte auf der linken Seite des Workspaces auf die roten Rechtecke.
@@ -20,8 +20,9 @@ Wenn du die Maus über das rote Rechteck bewegst, wir dir ein Fehlertext angezei
 ![error](img/FAQ/error_expected_bracket.png)
 
 ## Taschenrechner-App
-?> Frage: Wenn ich auf den Plus-Button klicke, passiert nichts.
-!> Überprüfe ob der Plus-Button im Design die **genau die gleiche ID** wie in deinem Code.
+q> Frage: Wenn ich auf den Plus-Button klicke, passiert nichts.
+
+a> Überprüfe ob der Plus-Button im Design die **genau die gleiche ID** wie in deinem Code.
 Im Beispiel: ´button_plus´
 
 w> **Achte** auf Groß- und Kleinschreibung!

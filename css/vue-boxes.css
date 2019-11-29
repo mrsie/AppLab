@@ -111,3 +111,36 @@
     color: #34495e;
   }
 
+/* question */
+.markdown-section .alert-question {
+    border-left: 4px solid #F39C12
+  }
+  .markdown-section .alert-question:before {
+    background-color: #F39C12;
+    color: #fff;
+    content: '?';
+  }
+  .markdown-section .alert-question code {
+    background-color: #FDF2E9;
+  }
+  .markdown-section .alert-question em {
+    color: #34495e;
+  }
+
+/* answer */
+.markdown-section .alert-answer {
+    border-left: 4px solid #27AE60
+  }
+  .markdown-section .alert-answer:before {
+    background-color: #27AE60;
+    color: #fff;
+    content: '!';
+  }
+  .markdown-section .alert-answer code {
+    background-color: #E9F7EF;
+  }
+  .markdown-section .alert-answer em {
+    color: #34495e;
+  }
+
+

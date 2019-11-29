@@ -54,6 +54,10 @@
               result = helper('alert alert-danger', text);
             } else if (/^t&gt;/.test(text)) {
               result = helper('alert alert-task', text);
+            } else if (/^q&gt;/.test(text)) {
+              result = helper('alert alert-question', text);
+            }else if (/^a&gt;/.test(text)) {
+              result = helper('alert alert-answer', text);
             } else {
               result = "<p>" + text + "</p>";
             }
