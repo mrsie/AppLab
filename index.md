@@ -38,7 +38,7 @@ Die Benutzeroberfläche des App Labors hat drei Ansichten:
 3. die [Daten-Ansicht](#Die-Daten-Ansicht).
 
 i> Du kannst oben-links zwischen den Ansichten wechseln.
-![AppLab-Benutzeroberfläche - Code-Ansicht mit Anmerkung: "Hier kannst du zwischen den Ansichten wechseln"](img/AppLab_Code_Ansicht_wechsel.png)
+![AppLab-Benutzeroberfläche - Code-Ansicht mit Anmerkung: "Hier kannst du zwischen den Ansichten wechseln"](img/AppLab_Code_Ansicht_wechsel.gif)
 
 ### Die Code-Ansicht
 
