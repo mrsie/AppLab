@@ -2,7 +2,7 @@
 **Hier findest du häufig gestellte Fragen.**
 
 ## Tipps zu Fehlermeldungen.
-q> Ich bekomme die eine Fehlermeldung angezeigt, was muss ich machen?
+q> Ich bekomme eine Fehlermeldung angezeigt, was muss ich machen?
 
 a> Die Fehlermeldung lesen!
 
@@ -20,7 +20,7 @@ Wenn du die Maus über das rote Rechteck bewegst, wir dir ein Fehlertext angezei
 ## Taschenrechner-App
 q> Wenn ich auf den Plus-Button klicke, passiert nichts.
 
-a> Überprüfe ob alle Element im Design die **genau die gleiche ID** wie in deinem Code.
+a> Überprüfe ob alle Element im Design **genau die gleiche ID** wie in deinem Code haben.
 <br> **Achte** auf Groß- und Kleinschreibung!
 <br> Verwende **keine Sonderzeichen** in den IDs (z. B. `+`, `-`, `*`, `/`)
 
