@@ -55,7 +55,7 @@ In der Entwurf-Anischt gibt es drei Bereiche.
 3. Auf der rechten Seite können im Workspace die Eigenschafen (Properties) der Elemente bearbeitet werden.
 
 ### Die Daten-Ansicht
-Diese Ansicht benötigen wir zunächst nicht.
+Diese Ansicht benötigst du zunächst nicht.
 
 
 
