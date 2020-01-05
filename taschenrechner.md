@@ -1,4 +1,4 @@
-# Die Taschenrechner-App
+# Die Taschenrechner-App <i class="fas fa-calculator"></i>
 
 ## Aufgabe 1
 t> Erstelle eine Taschenrechner-App, mit der man plus und minus rechnen kann.
