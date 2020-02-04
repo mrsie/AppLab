@@ -1,4 +1,4 @@
-# Die Krypto-App <i class="fas fa-calculator"></i>
+# Die Krypto-App
 
 In den kommenden Wochen ist euer Auftrag, eine App zu programmieren, die es euren Kund*innen ermöglicht, Texte einzugeben und zu verschlüsseln. Dabei sollen sie verschiedene Verfahren nutzen können und sich über diese auch informieren können. Die Gestaltung ist euch freigestellt. 
 Die großen Schritte dabei sind die folgenden:
