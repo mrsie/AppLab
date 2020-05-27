@@ -6,4 +6,4 @@
 
 * [FAQ](FAQ.md)
 
-* [mrsie.de](https://mrsie.de)
+* <a href="https://mrsie.de">mrsie.de</a>
